@@ -6,3 +6,8 @@ need to do command in terminal **git --version**. If git download you will see i
 ## 2. Download git
 Download last version app from site.
 Download defoult settings
+
+## 3. Git settings
+For the first use git.You shoud enter your name and e-mail adress in terminal
+``` git config --global user.name```
+``` git config --global email.name```
