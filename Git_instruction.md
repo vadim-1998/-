@@ -18,6 +18,7 @@ After you initialize folder you can begin your project with git. There are some 
 *  ```git status ``` check your curant status on working tree
 * ``` git add ``` use to update what will be committed
 * ``` git commit ``` use for commit your currant version
-* ``` git log ``` with this command you can see yours all commits
+* ``` git commit -a -m "" ``` combined command. first command will be ``` git add ``` second command will be ``` git commit ```. Adds all saves it the repository.
+* ``` git log / git log --oneline ``` with this command you can see yours all commits
 * ``` git checkout / git switch ``` use for switching between branches
 * ``` git diff ``` diffrance between current version and commited version
