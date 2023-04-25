@@ -28,3 +28,5 @@ After you initialize folder you can begin your project with git. There are some 
 
 ## 6. Fail ignore
 For fail or folder ignore you need to create a new fail ***.git ignore*** and write down to this fail name of folder.
+
+## 7. Create a new branch in Git
