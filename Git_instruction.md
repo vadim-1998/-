@@ -25,3 +25,5 @@ After you initialize folder you can begin your project with git. There are some 
 * ``` git log / git log --oneline ``` with this command you can see yours all commits
 * ``` git checkout / git switch ``` use for switching between branches
 * ``` git diff ``` diffrance between current version and commited version
+
+## 6. Fail ignore
