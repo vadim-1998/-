@@ -31,3 +31,9 @@ For fail or folder ignore you need to create a new fail ***.git ignore*** and wr
 
 ## 7. Create a new branch in Git
 For create branch in git you need to write down command ``` git branch branch_name ``` in terminal
+
+For checking list of branch 
+```
+use commaand git branch
+```
+Currrent branch  will **\*master**
