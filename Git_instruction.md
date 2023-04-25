@@ -30,3 +30,4 @@ After you initialize folder you can begin your project with git. There are some 
 For fail or folder ignore you need to create a new fail ***.git ignore*** and write down to this fail name of folder.
 
 ## 7. Create a new branch in Git
+For create branch in git you neeed to write down command ``` git branch branch_name ``` in terminnal
