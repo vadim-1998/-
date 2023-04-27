@@ -41,9 +41,9 @@ use command git branch
 ```
 The current branch will be highlighted **\*master**
 
-## Merging branches in Git
+## 8. Merging branches in Git
 
-To merrrge the draft brafgnch with the masaster branch you need to switch on the master branch by using command
+To merge the draft branch with the master branch you need to switch on the master branch by using command
 
  ```git checkout / switch master```
 
@@ -52,3 +52,7 @@ To merrrge the draft brafgnch with the masaster branch you need to switch on the
  ``` 
  git merge branch_name
  ```
+ 
+ 
+ 
+
