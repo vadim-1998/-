@@ -4,18 +4,21 @@
 
 
 ## 1. Check git install
-Write down command in terminal **git --version**. If git download you will see information about version git. Otherwise you see error.
+Write down command in terminal **git --version**. If git download correct you will see information about current git version. Otherwise you see error.
 
 ## 2. Download git
 Download last version app from site.
-Download defoult settings
+
+Applay defoult settings
 
 ## 3. Git settings
-For the first use git.You shoud enter your name and e-mail adress in terminal
+For the first use git. You shoud enter your name and e-mail adress in terminal
+
 ``` git config --global user.name```
+
 ``` git config --global email.name```
 ## 4. Start work with Git
-First of all you need to create folder on your workspace. For the next step you need to open your folder via ``` VS Code``` by using ``` explorer```. By the next step you need to create a new fail. For this use icon ``` create new fail ``` .After that you need to initialize your folder. You should write down command in terminal ``` git init ```.
+First of all you need to create folder on your workspace. For the next step you need to open your folder via ``` VS Code``` by using ``` explorer```. By the next step you need to create a new fail. For this use icon ``` create new fail ``` . After that you need to initialize your folder. You should write down command in terminal ``` git init ```.
 ## 5. Commands you need to know at the start
 After you initialize folder you can begin your project with git. There are some commands you can use
 *  ```git status ``` check your curant status on working tree
@@ -27,7 +30,7 @@ After you initialize folder you can begin your project with git. There are some 
 * ``` git diff ``` diffrance between current version and commited version
 
 ## 6. Fail ignore
-For fail or folder ignore you need to create a new fail ***.git ignore*** and write down to this fail name of folder.
+To ignore the fail or folder you need to create a new fail ***.git ignore*** and write down to this fail name of folder you want to ignore.
 
 ## 7. Create a new branch in Git
 For create branch in git you need to write down command ``` git branch branch_name ``` in terminal.
@@ -36,4 +39,7 @@ For checking list of branch
 ```
 use command git branch
 ```
-Current branch  will **\*master**
+The current branch will be highlighted **\*master**
+
+## Merging branches in Git
+
