@@ -69,8 +69,7 @@ If you want to delete unmerging branch and you are in it you shold use command
 git branch -D branch_name
 ~~~
 ## 11. Merge history
- 
- To see merrgge histoury use command
+ To see merge history use command
 
  ``` git log --graph```
 
