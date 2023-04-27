@@ -61,7 +61,8 @@ To merge the draft branch with the master branch you need to switch on the maste
  Compare changes
  ~~~
 You can choose one of the options.
- 
+ ## 10. Deleting branches
+
 
  
  
