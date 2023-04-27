@@ -54,13 +54,14 @@ To merge the draft branch with the master branch you need to switch on the maste
  ```
  ## 9. Conflict resolution
  While you working on a draft branch, your colleage working on the master branch on the same project. Merging branches can cause conflict. You will see two variants of work and several optionts you can follow.
-
- ### Accept incomming
+ ~~~
+ Accept current change
  Accept incoming change
- Accept boooth changes
+ Accept both changes
  Compare changes
  ~~~
 You can choose one of the options.
+ 
 
  
  
