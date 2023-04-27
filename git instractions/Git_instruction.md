@@ -62,7 +62,12 @@ To merge the draft branch with the master branch you need to switch on the maste
  ~~~
 You can choose one of the options.
  ## 10. Deleting branches
+To delete branch use command  ``` git branch -d branch_name ```
 
+If you want to delete unmerging branch and you are in it you shold use command
+~~~
+git branch -D branch_name
+~~~
 
  
  
