@@ -70,6 +70,11 @@ git branch -D branch_name
 ~~~
 ## 11. Merge history
  
+ To see merrgge histoury use command
+
+ ``` git log --graph```
+
+ ``` git log --graph --oneline```
  
 
 
